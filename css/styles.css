@@ -1,0 +1,32 @@
+  body {
+    background-color: #eeecfd;
+    padding: 5%;
+  }
+
+  h1, h2, p {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.nav {
+  color: blue;
+}
+
+.sharing {
+  color: red;
+}
+
+.directions {
+  color: purple;
+}
+
+.contact {
+  color: black;
+}
